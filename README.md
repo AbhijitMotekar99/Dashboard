@@ -2,6 +2,9 @@
 
 Welcome to the React Admin Dashboard! This project includes theming, tables, charts, calendars, a Kanban board, and more, thanks to the powerful Syncfusion library. This project was inspired and guided by JavaScript Mastery.
 
+
+![Dashboard]()
+
 ## 🚀 Features
 
 - **Theming:** Easily switch between light and dark themes.
