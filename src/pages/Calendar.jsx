@@ -49,6 +49,7 @@ const Scheduler = () => {
                   placeholder="Current Date"
                   floatLabelType="Always"
                   change={change}
+                  aria-label="Select date"
                 />
               </td>
             </tr>

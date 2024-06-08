@@ -1,7 +1,7 @@
 import React from 'react';
 import { MdOutlineCancel } from 'react-icons/md';
 
-import { Button } from '.';
+import { Button } from './SharedComponents';
 import { chatData } from '../data/dummy';
 import { useStateContext } from '../contexts/ContextProvider';
 
@@ -23,7 +23,7 @@ const Notification = () => {
             <img className="rounded-full h-10 w-10" src={item.image} alt={item.message} />
             <div>
               <p className="font-semibold dark:text-gray-200">{item.message}</p>
-              <p className="text-gray-500 text-sm dark:text-gray-400"> {item.desc} </p>
+              <p className="text-gray-500 dark:text-gray-400 text-sm">{item.desc}</p>
             </div>
           </div>
         ))}
