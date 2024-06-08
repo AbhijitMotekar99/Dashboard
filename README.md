@@ -2,9 +2,10 @@
 
 Welcome to the React Admin Dashboard! This project includes theming, tables, charts, calendars, a Kanban board, and more, thanks to the powerful Syncfusion library. This project was inspired and guided by JavaScript Mastery.
 
-### Live Dashboard :
+### Live Dashboard :chart_with_upwards_trend:
 
 Check out the live dashboard [here](https://dashboardam.netlify.app/)!
+
 
 
 
